@@ -1,0 +1,112 @@
+* {
+	padding: 2;
+	margin: 0;
+}
+
+@media screen and (max-width: 400px) 
+{
+
+	header {
+		background-color: white;
+		text-align: left;
+		width: 103vw;
+		height: 15vh;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+	}
+
+	h1 {
+		position: absolute;
+		top: 15px;
+		left: 30px;
+		color: rgb(150,0,0);
+		font-size: 4vw;
+		letter-spacing: 10px;
+		font-size: 3vw;
+	}
+
+
+	nav {
+		background-color: black;
+		width: 600px;
+	}
+
+	ul {
+		border: 5px solid black;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		height: 1000px;
+	}
+
+	.work4 {
+		color: white;
+		position: absolute;
+		top: 350px;
+		left: 200px;
+		font-size: 1.7vw;
+		line-height: 2;
+	}
+
+	.work5 {
+		color: white;
+		position: absolute;
+		top: 650px;
+		left: 200px;
+		font-size: 1.7vw;
+		line-height: 2;
+		text-align: left;
+	}
+
+	.p1 {
+		color: black;
+		font-size: 2.5vw;
+		position: absolute;
+		top: 250px;
+		left: 300px;
+		box-shadow: 10px 10px 2px 2px; color: rgb(150,0,0);
+	}
+
+	.p2 {
+		color: black;
+		font-size: 2.5vw;
+		position: absolute;
+		top: 550px;
+		left: 300px;
+		box-shadow: -10px -10px 2px 2px; color: rgb(150,0,0);
+	}
+
+	.p3 {
+		position: absolute;
+		top: 80px;
+		left: 30px;
+		font-size: 2vw;
+		letter-spacing: 2px
+	}
+
+	.r1 {
+		position: absolute;
+		top: 350px;
+		left: 10px;
+		height: 80px;
+		width: 80px;
+		border-radius: 80px;
+		background: radial-gradient(black,white);
+		box-shadow: 80px 0px 0px 10px; color: rgb(150,0,0);
+		list-style: none;
+	}
+
+	.g1 {
+		position: absolute;
+		top: 950px;
+		left: 10px;
+		height: 80px;
+		width: 80px;
+		border-radius: 80px;
+		background: radial-gradient(black,white);
+		box-shadow: 80px 0px 0px 10px; color: rgb(150,0,0);
+		list-style: none;
+	}
+
+}
