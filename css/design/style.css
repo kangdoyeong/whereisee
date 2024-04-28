@@ -1,4 +1,4 @@
-@media screen and (max-width: 900px) { 
+@media screen and (max-width: 400px) { 
 	
 	img {
 	height: 60vw; width: 90vh;
@@ -11,8 +11,8 @@
 	text-align: center;
 	font-size: 2vw;
 	color: white;
-	height: 20vw;
-	width: 80vh;
+	height: 10vw;
+	width: 40vh;
 	word-break: keep-all;
 	line-height: 2.4;
 	margin: 10vw;
@@ -34,7 +34,7 @@
 	h2{
 	color: black;
 	background-color: white;
-	width: 900px;
+	width: 400px;
 	box-shadow: 10px 10px 1px 3px rgb(150, 0, 0);
 	text-align: center;
 	letter-spacing: 5px;
@@ -78,7 +78,7 @@
     	justify-content:space-evenly;
 		border: 2px solid black;
 		background-color: black;
-		width: 900px;
+		width: 400px;
 	}
 	
 }
