@@ -9,7 +9,7 @@
 
 	p { 
 	text-align: center;
-	font-size: 4vw;
+	font-size: 3vw;
 	color: white;
 	height: 20vw;
 	width: 40vh;
@@ -82,6 +82,7 @@
 		border: 2px solid black;
 		background-color: black;
 		width: 400px;
+		height: 900px;
 	}
 	
 }
