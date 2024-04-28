@@ -9,9 +9,9 @@
 
 	p { 
 	text-align: center;
-	font-size: 2vw;
+	font-size: 4vw;
 	color: white;
-	height: 10vw;
+	height: 20vw;
 	width: 40vh;
 	word-break: keep-all;
 	line-height: 2.4;
@@ -29,6 +29,7 @@
 	}
 
 	h1{
+		text-align: center;
 		letter-spacing: 10px;
 	}
 
