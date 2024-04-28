@@ -23,13 +23,13 @@
 		color: rgb(150,0,0);
 		font-size: 4vw;
 		letter-spacing: 10px;
-		font-size: 3vw;
+		font-size: 6vw;
 	}
 
 
 	nav {
 		background-color: black;
-		width: 600px;
+		width: 400px;
 	}
 
 	ul {
@@ -43,7 +43,7 @@
 	.work4 {
 		color: white;
 		position: absolute;
-		top: 350px;
+		top: 150px;
 		left: 200px;
 		font-size: 1.7vw;
 		line-height: 2;
@@ -61,7 +61,7 @@
 
 	.p1 {
 		color: black;
-		font-size: 2.5vw;
+		font-size: 4vw;
 		position: absolute;
 		top: 250px;
 		left: 300px;
@@ -70,7 +70,7 @@
 
 	.p2 {
 		color: black;
-		font-size: 2.5vw;
+		font-size: 4vw;
 		position: absolute;
 		top: 550px;
 		left: 300px;
@@ -99,7 +99,7 @@
 
 	.g1 {
 		position: absolute;
-		top: 950px;
+		top: 650px;
 		left: 10px;
 		height: 80px;
 		width: 80px;
