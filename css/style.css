@@ -43,7 +43,7 @@
 	.work4 {
 		color: white;
 		position: absolute;
-		top: 150px;
+		top: 350px;
 		left: 200px;
 		font-size: 1.7vw;
 		line-height: 2;
@@ -63,7 +63,7 @@
 		color: black;
 		font-size: 4vw;
 		position: absolute;
-		top: 250px;
+		top: 200px;
 		left: 300px;
 		box-shadow: 10px 10px 2px 2px; color: rgb(150,0,0);
 	}
@@ -81,13 +81,13 @@
 		position: absolute;
 		top: 80px;
 		left: 30px;
-		font-size: 2vw;
+		font-size: 4vw;
 		letter-spacing: 2px
 	}
 
 	.r1 {
 		position: absolute;
-		top: 350px;
+		top: 250px;
 		left: 10px;
 		height: 80px;
 		width: 80px;
