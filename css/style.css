@@ -43,7 +43,7 @@
 	.work4 {
 		color: white;
 		position: absolute;
-		top: 350px;
+		top: 300px;
 		left: 200px;
 		font-size: 1.7vw;
 		line-height: 2;
@@ -87,25 +87,25 @@
 
 	.r1 {
 		position: absolute;
-		top: 250px;
-		left: 10px;
+		top: 300px;
+		left: 30px;
 		height: 80px;
 		width: 80px;
 		border-radius: 80px;
 		background: radial-gradient(black,white);
-		box-shadow: 80px 0px 0px 10px; color: rgb(150,0,0);
+		box-shadow: 40px 0px 0px 10px; color: rgb(150,0,0);
 		list-style: none;
 	}
 
 	.g1 {
 		position: absolute;
 		top: 650px;
-		left: 10px;
+		left: 30px;
 		height: 80px;
 		width: 80px;
 		border-radius: 80px;
 		background: radial-gradient(black,white);
-		box-shadow: 80px 0px 0px 10px; color: rgb(150,0,0);
+		box-shadow: 40px 0px 0px 10px; color: rgb(150,0,0);
 		list-style: none;
 	}
 
